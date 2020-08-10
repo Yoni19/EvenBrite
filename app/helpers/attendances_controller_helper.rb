@@ -1,0 +1,2 @@
+module AttendancesControllerHelper
+end
